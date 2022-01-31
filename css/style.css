@@ -1,0 +1,31 @@
+body {
+    font: comfortaa 10px;
+}
+
+.navbar {
+    background-color: #FAB3AD;
+}
+
+.quem-somos {
+    font: comfortaa;
+    background-color: rgb(164, 195, 223);
+    color: #505050;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.navbar-brand {
+    padding-right: 50px;
+}
+
+.parceiros {
+    background-color: rgb(236, 214, 226);
+}
+
+.bg-footer{
+    background-color: #505050;
+    color: white;
+}
